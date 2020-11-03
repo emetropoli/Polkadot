@@ -1,4 +1,10 @@
-# Polkadot
+# Run Polkadot node 
+polkadot --chain=kusama
+
+# Run sidecar service 
+substrate-api-sidecar
+
+# Command Line use
 
 main.py [-h] [-d DEPTH] [-e ERA] [-a] [-s SIDECAR_URL] account
 positional arguments:
