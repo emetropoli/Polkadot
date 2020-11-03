@@ -4,7 +4,7 @@ import sys
 import requests
 
 
-DEFAULT_SIDECAR_URL = 'http://127.0.0.1:8080'
+DEFAULT_SIDECAR_URL = 'http://localhost:8080'
 DEFAULT_DEPTH = 5
 DEFAULT_ERA = -1
 DEFAULT_ALL = False
